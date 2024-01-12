@@ -4,7 +4,7 @@
 
 En estos momentos imparto algunas asignaturas de `Formación Profesional` de grado superior, y utilizo este perfil mayormente para introducir a los alumnos en `GitHub`, y para compartir recursos y ejercicios relevantes para los cursos.
 
-Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) -privadas, y también probamos [GitHub Classrooms](https://classroom.github.com/)
+Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) -**privadas**, y también probamos [GitHub Classrooms](https://classroom.github.com/)
 
 ## Curso 2023/24
 

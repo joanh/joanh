@@ -1,10 +1,12 @@
 ## Bienvenidos 👋
 
-![Tech](/img/cityIA.png)
+![Tech](/img/cityIAmin.png)
 
-En estos momentos imparto algunas asignaturas de `Formación Profesional` de grado superior, y utilizo este perfil mayormente para introducir a los alumnos en `GitHub`, y para compartir recursos y ejercicios relevantes para los cursos.
+En estos momentos imparto varias asignaturas de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
 
-Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) -**privadas**, y también probamos [GitHub Classrooms](https://classroom.github.com/)
+Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) -**privadas**, pero incluyen recursos abiertos.
+
+También probamos [GitHub Classrooms](https://classroom.github.com/)
 
 ## Curso 2023/24
 

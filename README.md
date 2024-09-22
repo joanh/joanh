@@ -18,7 +18,8 @@ En algunos grupos se incluyen repositorios públicos que incluyen `ejercicios`, 
 
 - [**2DAWIE**](https://github.com/2DAWIE) - `Desarrollo WEB en Entorno Cliente`
 - [**1SMR**](https://github.com/1smrIE) - `Montaje y Mantenimiento de Equipos`
-- **FPB1** - `Montaje y Mantenimiento de Sistemas` (No se utiliza GitHub)
+- **1SMRA** - `Montaje y Mantenimiento de Equipos` (No se utiliza GitHub) - `Apoyo`
+- **FPB1** - `Montaje y Mantenimiento de Sistemas` (No se utiliza GitHub) - `Apoyo`
 
 
 ---

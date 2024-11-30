@@ -14,9 +14,8 @@
 [![Clave Pública](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
 
 [![Presentaciones](https://img.shields.io/badge/Presentaciones-Docs-green?logo=google-drive)](https://presentacionesdaw.netlify.app/)
+
 ![](https://komarev.com/ghpvc/?username=joanh&color=green)
-
-
 
 ---
 

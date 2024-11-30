@@ -13,8 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:&#106;&#111;&#115;&#101;&#97;&#104;&#101;&#114;&#97;&#115;&#64;&#112;&#109;&#46;&#109;&#101;)
 [![Clave Pública](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
 
----
-
 [![Presentaciones](https://img.shields.io/badge/Presentaciones-Docs-green?logo=google-drive)](https://presentacionesdaw.netlify.app/)
 
 ---

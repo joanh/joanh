@@ -1,12 +1,13 @@
 ## Bienvenidos 👋
 
-<center>
+<div align="center">
 
 > Aprender es importante. Aprender a aprender es más importante.
 
 ![Tech](/img/cityIAmin.png)
+[![Public Key](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
 
-</center>
+</div>
 
 En estos momentos imparto varias asignaturas de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
 

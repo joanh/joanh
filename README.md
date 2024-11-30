@@ -6,7 +6,10 @@
 
 ![Tech](/img/cityIAmin.png)
 
+---
+
 [![Creative Commons](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+
 [![Public Key](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
 
 </div>

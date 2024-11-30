@@ -1,6 +1,6 @@
-## Bienvenidos 👋
-
 <div align="center">
+
+## Bienvenidos 👋
 
 > Aprender es importante. Aprender a aprender es más importante.
 
@@ -11,11 +11,13 @@
 [![Creative Commons](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:&#106;&#111;&#115;&#101;&#97;&#104;&#101;&#114;&#97;&#115;&#64;&#112;&#109;&#46;&#109;&#101;)
-[![Public Key](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
+[![Clave Pública](https://img.shields.io/badge/Public%20Key-Download-blue)](https://gist.github.com/joanh/1161dbd51372a6647f840068db4382c9)
+
+---
 
 </div>
 
-En estos momentos imparto varias asignaturas de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
+En estos momentos imparto varias asignaturas de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `Git` y a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
 
 Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations)  y recientemente [GitHub Classrooms](https://classroom.github.com/). Por defecto se utilizan repositorios privados de manera que se garantiza la protección de datos de los alumnos según el estándar de `GitHub`([Declaración de privacidad general de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement)).
 
@@ -27,7 +29,6 @@ En algunos grupos se incluyen repositorios públicos que incluyen `ejercicios`, 
 - [**1SMR**](https://github.com/1smrIE) - `Montaje y Mantenimiento de Equipos`
 - **1SMRA** - `Montaje y Mantenimiento de Equipos` (No se utiliza GitHub) - `Apoyo`
 - **FPB1** - `Montaje y Mantenimiento de Sistemas` (No se utiliza GitHub) - `Apoyo`
-
 
 ---
 

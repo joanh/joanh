@@ -2,7 +2,7 @@
 
 ## Bienvenidos 👋
 
-> **Aprender es importante. Aprender a aprender es más importante**
+> **Aprender es importante. Aprender a aprender es más importante.**
 
 ![Tech](/img/cityIAmin.png)
 

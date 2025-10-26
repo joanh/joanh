@@ -33,8 +33,8 @@ En algunos grupos se incluyen repositorios públicos que incluyen `ejercicios`, 
 - **SM2B** - `Fase de Formación en Empresa` (No se utiliza GitHub) - *Tutor*
 - [**SR2A**](https://github.com/SR2A2k25) - `Implantación de Aplicaciones WEB` - `Seguridad y Alta Disponibilidad`
 - [**SR1A**](https://github.com/SR1AcDr) - `Fundamentos de Programación - Python`
-- **DW2A** - `Sostenibilidad Aplicada al Sistema Productivo` (No se utiliza GitHub)
-- **SM2A** - `Sostenibilidad Aplicada al Sistema Productivo` (No se utiliza GitHub)
+- **DW2A** - `Sostenibilidad Aplicada al Sistema Productivo` (<https://sasp2.netlify.app/>)
+- **SM2A** - `Sostenibilidad Aplicada al Sistema Productivo` (<https://sasp2.netlify.app/>)
 
 ---
 

@@ -21,13 +21,24 @@
 
 </div>
 
-En estos momentos imparto varias asignaturas de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `Git` y a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
+En estos momentos imparto diferentes módulos de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `Git` y a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
 
-Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations)  y recientemente [GitHub Classrooms](https://classroom.github.com/). Por defecto se utilizan repositorios privados de manera que se garantiza la protección de datos de los alumnos según el estándar de `GitHub`([Declaración de privacidad general de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement)).
+Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) y ~~recientemente [GitHub Classrooms](https://classroom.github.com/)~~ **descontinuado por GitHub**.
 
-En algunos grupos se incluyen repositorios públicos que incluyen `ejercicios`, `recursos`, `infografías`, etc. En estos casos se utilizará en general, si no se indica lo contrario, la licencia de **`Dominio Público`** [**CC0 1.0 Universal**](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
+Por defecto se utilizan siempre repositorios privados de manera que se garantiza la protección de datos de los alumnos según el estándar de `GitHub`([Declaración de privacidad general de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement)).
 
-## Curso 2025/26
+En algunas Organizaciones se incluyen repositorios públicos que incorporan `ejercicios`, `recursos`, `infografías`, etc. En estos casos se utilizará en general, si no se indica lo contrario, la licencia de **`Dominio Público`** [**CC0 1.0 Universal**](https://creativecommons.org/publicdomain/zero/1.0/deed.es).
+
+## Curso 2026/27
+
+- [**1DAM**](https://github.com/DAM1-26-27) - `Lenguajes de marcas y sistemas de gestión de información` - *Tutor*
+- [**1DAW**](https://github.com/DAW1-26-27) - `Lenguajes de marcas y sistemas de gestión de información`
+- [**2SMR**](https://github.com/SMR2-26-27) - `Aplicaciones WEB` - `Ampliación de Aplicaciones WEB` - `Seguridad Informática`
+- [**1SMR Intensivo**](https://github.com/SMRint) - `Introducción a Aplicaciones WEB` - `Aplicaciones WEB` - `Digitalización aplicada a los sectores productivos`
+
+---
+
+> Curso 2025/26
 
 - [**SM2B**](https://github.com/SM2Baw) - `Aplicaciones WEB` - *Tutor*
 - **SM2B** - `Fase de Formación en Empresa` (No se utiliza GitHub) - *Tutor*

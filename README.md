@@ -23,7 +23,7 @@
 
 En estos momentos imparto diferentes módulos de Informática de `Formación Profesional`, y utilizo este perfil mayormente para introducir a los alumnos a `Git` y a `GitHub`, y para compartir recursos y ejercicios relevantes para cada materia.
 
-Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) y ~~recientemente [GitHub Classrooms](https://classroom.github.com/)~~ **descontinuado por GitHub**.
+Se utilizan [Organizaciones de GitHub](https://docs.github.com/es/organizations) y ~~recientemente [GitHub Classrooms](https://classroom.github.com/)~~ **descontinuado por GitHub** en [2026](https://github.com/orgs/community/discussions/196615).
 
 Por defecto se utilizan siempre repositorios privados de manera que se garantiza la protección de datos de los alumnos según el estándar de `GitHub`([Declaración de privacidad general de GitHub](https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement)).
 
